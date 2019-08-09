@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dev-coba/static/css/main.34de6062.chunk.css",
+    "main.js": "/dev-coba/static/js/main.26a76d76.chunk.js",
+    "main.js.map": "/dev-coba/static/js/main.26a76d76.chunk.js.map",
+    "runtime~main.js": "/dev-coba/static/js/runtime~main.2da5a50f.js",
+    "runtime~main.js.map": "/dev-coba/static/js/runtime~main.2da5a50f.js.map",
+    "static/js/2.fdc4b49b.chunk.js": "/dev-coba/static/js/2.fdc4b49b.chunk.js",
+    "static/js/2.fdc4b49b.chunk.js.map": "/dev-coba/static/js/2.fdc4b49b.chunk.js.map",
+    "index.html": "/dev-coba/index.html",
+    "precache-manifest.ff7c8295f8d20a8518658c48f6011b60.js": "/dev-coba/precache-manifest.ff7c8295f8d20a8518658c48f6011b60.js",
+    "service-worker.js": "/dev-coba/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/dev-coba/static/css/main.34de6062.chunk.css.map"
+  }
+}
