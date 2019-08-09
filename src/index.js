@@ -19,7 +19,7 @@ const routing = (
           <Link to="/contact">Contact</Link>
         </li>
       </ul>
-      <Route exact path="/" component={App} />
+      <Route exact path="/dev-coba" component={App} />
       <Route path="/users" component={Users} />
       <Route path="/contact" component={Contact} />
     </div>
